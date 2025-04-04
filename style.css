@@ -1,0 +1,41 @@
+.main .box .wel{
+    width: 450px;
+    height: 130px;
+    background-color: rgba(85, 110, 230, 0.25);
+    position: relative;
+}
+
+.back{
+    background-color:rgb(249, 249, 249);
+}
+.main .box .wel img{
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+    right: 0;
+    width: 200px;
+}
+.main .box .come
+{
+    width: 450px;
+    height: auto;
+}
+.main .box .log{
+    width: 400px;
+    height: auto;
+}
+/* .main .box .come .log{
+    width: 600px;
+ } */
+.main .box .social{
+    width: 30px;
+    font-size: 10px;
+    height: 30px;
+}
+.main .box .acc{
+    width:450px;
+    height: auto;
+}
+/* .main .box .pass i::after{
+    content: 'Forgot your password?';
+} */
