@@ -1,0 +1,11 @@
+.main {
+    width: 500px;
+    height: auto;
+}
+.main .sign{
+    /* width: 450px; */
+}
+.page{
+    display: flex;
+    justify-content: center;
+}
